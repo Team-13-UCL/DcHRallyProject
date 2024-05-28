@@ -1,0 +1,1 @@
+Foran skiltet ændrer teamet retning ved at dreje ind mod hinanden og fortsætte i modsat retning således, at hunden bytter side fra venstre til højre. Dette skal ske samtidigt i en flydende bevægelse og uden stop. Højrehandling gennemføres på samme måde ved at dreje ind mod hinanden, og fortsætte i modsatte retning således, at hunden bytter side fra højre til venstre.

@@ -1,0 +1,131 @@
+1. Start
+2. Mål
+3. Højre sving
+4. Venstre sving
+5. 270º Højre rundt
+6. 270º Venstre rundt
+7. Diagonalt højre
+8. Diagonalt venstre
+9. 225° Højre rundt
+10. 225° Venstre rundt
+11. Højre omkring
+12. Venstre omkring
+13. Tyskervending
+14. 360º til højre
+15. 360º til venstre
+16. STOP - drej 90o højre om
+17. STOP - drej 90o venstre om
+18. Synkron højre om
+19. Synkron venstre om
+20. Tulipan
+21. Langsom gang
+22. Løb
+23. Almindelig gang
+24. Sidestep til højre
+25. Sidestep til venstre
+26. Højre spiral
+27. Venstre spiral
+28. Dobbelt slalom
+29. Enkelt slalom
+30. 8 tal
+31. Sit foran - hund bagom - fremad
+32. Sit foran - hund kort vej rundt – fremad
+33. Sit foran - hund bagom rundt – STOP
+34. Sit foran - hund kort vej rundt – STOP
+35. STOP - 1, 2, 3 skridt fremad - STOP
+36. Sit foran - 1, 2, 3 skridt bagud
+37. STOP
+38. STOP - løb fremad fra sit
+39. STOP - gå rundt
+40. STOP - dæk
+41. Dæk
+42. STOP - dæk - gå rundt
+43. Stå
+44. Hund snur rundt
+45. Fører stop, hund rundt om fører
+46. STOP - hund i gang om fører – STOP
+47. 1 skridt baglæns - hunden bakker
+100. Slalom med rundtur
+101. Fristende 8-tal
+102. Kløverbladet
+103. Send over spring
+104. STOP - bliv – forbi 1 spring
+105. Indkald under gang
+106. STOP - 90º højre om – STOP
+107. STOP - 90º venstre om – STOP
+108. STOP - højre om - 1 skridt - kald på plads – STOP
+109. STOP - venstre om - 1 skridt - kald på plads – STOP
+110. STOP - højre omkring - fremad
+111. STOP - venstre omkring - fremad
+112. STOP - højre omkring - STOP
+113. STOP - venstre omkring - STOP
+114. STOP - 1 sideskridt til højre - STOP
+115. STOP - 1 sideskridt til venstre – STOP
+116. STOP - 2 sideskridt til højre - STOP
+117. STOP - 2 sidekridt til venstre - STOP
+118. 2 sideskridt til højre
+119. 2 sideskridt til venstre
+120. STOP - sit foran - bagom – STOP
+121. STOP - sit foran - kort vej rundt – STOP
+122. Stå foran - bagom rundt
+123. Stå foran - kort vej rundt
+124. STOP - dæk - sit
+125. STOP - stå - gå rundt
+126. STOP - 1 skridt stå, 1 skridt sit, 1 skridt dæk
+127. STOP - hund foran rundt – STOP
+128. STOP - hund bagved rundt – STOP
+129. Springvand
+130. To tyskervendinger
+131. Cirkel i gang omkring fører
+132. Hund snur ind mod fører
+133. 2 skridt baglæns - hunden bakker
+200. STOP - spring - ro - spring - STOP
+201. Dæk - bliv - alm. gang - forbi 1 spring
+202. Dæk - bliv - løb - forbi 1 spring
+203. Stå - bliv - alm. gang - forbi 1 spring
+204. Stå - bliv - løb - forbi 1 spring
+205. STOP - gå hen og læg dig
+206. STOP - stå - dæk
+207. STOP - stå - sit
+208. STOP - hent/bring
+209. Stå - hent/bring
+210. Dæk - hent/bring
+211. STOP - gå fra
+212. Stå - gå fra
+213. Dæk - gå fra
+214. Stå under gang - gå rundt
+215. 3 skridt baglæns - hunden bakker
+216. Stå foran - hund bak 1 længde - fremad
+217. Dobbelt 180o vending - højre rundt - venstre
+218. Dobbelt 180o vending - venstre rundt - højre
+219. STOP - 3 sideskridt højre - STOP
+220. STOP - 3 sideskridt venstre – STOP
+221. 3 sideskridt til højre
+222. 3 sideskridt til venstre
+223. Cirkel i gang om fører - 90° højre
+224. Cirkel i gang om fører - 90° venstre
+225. Sideskift bagved
+226. 8 tal med sideskift bagved
+227. Kløverblad med fristelser
+228. Indkald til modsat side under gang
+229. Med sideskift
+300. Sideskift foran
+301. 90° venstre - sideskift med kegle
+302. 90° højre - sideskift med kegle
+303. Tunnel
+304. STOP - 1, 2 skridt baglæns - hund bakker -
+305. STOP - 1 skridt baglæns stå - 1 skridt
+306. STOP - 1 skridt baglæns stå - 2 skridt baglæns sit - 3 skridt baglæns dæk
+307. 2 skridt baglæns - 90° højre - 2 skridt baglæns
+308. 2 skridt baglæns - 90° venstre - 2 skridt baglæns
+309. Stå foran - hund bak 3 længder - fremad
+310. Send over 2 spring
+311. STOP - Dobbeltspring - ro - spring – STOP
+312. STOP - bliv - løb frem - forbi 2 spring
+313. Stå - bliv - alm. gang - forbi 2 spring
+314. Stå - bliv - løb - forbi 2 spring
+315. STOP - send frem - stå
+316. Dobbelt 8 tal med sideskift bagved
+317. Sit under gang - Gå rundt
+318. Dæk under gang - Gå rundt
+319. STOP - 90o venstre om stå - 90o venstre om sit - 90o venstre om dæk

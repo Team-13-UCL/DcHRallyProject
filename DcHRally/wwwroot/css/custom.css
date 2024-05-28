@@ -1,0 +1,134 @@
+/* custom.css */
+
+/* Navbar styles */
+.navbar-custom {
+    background-color: #0a5494;
+    padding: 0 5px; /* Adjust vertical padding */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #fdf5e6;
+    font-weight: bold;
+    margin: 0 15px; /* Adjust horizontal margin */
+}
+
+.navbar-custom .nav-link:hover {
+    color: #add8e6;
+}
+
+/* Body styles */
+body {
+    background-color: #fdf5e6;
+    color: #000;
+    font-weight: normal;
+}
+
+/* Logo styles */
+.navbar-custom .navbar-brand .navbar-logo {
+    max-width: 35%; /* Adjust the size as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar-custom .navbar-title {
+    color: #fdf5e6;
+    font-size: x-small;
+    text-align: center;
+    display: block;
+}
+
+/* Separator styles */
+.navbar-separator {
+    border-right: 1px solid #add8e6; /* Light blue */
+    height: 40px; /* Adjust the height of the separator */
+    margin: 0 10px; /* Adjust the margin around the separator */
+}
+
+/* Common styles for panels */
+.left-panel, .right-panel {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    position: relative;
+}
+
+.left-panel h2 {
+    color: #0a5494;
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+    border: 2px solid #0a5494;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 400px;
+}
+
+.zoom-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.zoom-image:hover {
+    transform: scale(1.1);
+}
+
+.button-container {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #0a5494;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #033468;
+}
+
+/* Additional styling for buttons */
+.button-container button {
+    width: 50%;
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 5px;
+}
+
+/* Tilpasning af mine baner liste */
+.left-panel {
+    padding: 20px;
+}
+
+#course-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#course-list li {
+    padding: 10px;
+    color: #0a5494;
+    transition: background-color 0.3s ease;
+}
+
+#course-list li:hover {
+    background-color: #f0f0f0;
+}
+
+.course-list {
+    border: 2px solid #0a5494; /* Add border around the course list */
+    border-radius: 10px; /* Optional: add rounded corners */
+    margin: 10px; /* Increase margin to space out the panels more */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for a nice effect */
+    padding: 10px; /* Add padding to space content from the border */
+}

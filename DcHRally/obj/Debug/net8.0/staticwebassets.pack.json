@@ -1,0 +1,1393 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/obj/Debug/net8.0/scopedcss/projectbundle/DcHRally.bundle.scp.css",
+      "PackagePath": "staticwebassets/DcHRally.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/css/custom.css",
+      "PackagePath": "staticwebassets/css/custom.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/css/trackStyle.css",
+      "PackagePath": "staticwebassets/css/trackStyle.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/FullTrackBuilder.png",
+      "PackagePath": "staticwebassets/images/FullTrackBuilder.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/RallyAction.png",
+      "PackagePath": "staticwebassets/images/RallyAction.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/RallyBane.png",
+      "PackagePath": "staticwebassets/images/RallyBane.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/TrackBuilderCategory.png",
+      "PackagePath": "staticwebassets/images/TrackBuilderCategory.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/TrackBuilderExample.png",
+      "PackagePath": "staticwebassets/images/TrackBuilderExample.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/TrackBuilderWithOrder.png",
+      "PackagePath": "staticwebassets/images/TrackBuilderWithOrder.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/dchlogo.png",
+      "PackagePath": "staticwebassets/images/dchlogo.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/obstacleElements/Bom.png",
+      "PackagePath": "staticwebassets/images/obstacleElements/Bom.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/obstacleElements/H.png",
+      "PackagePath": "staticwebassets/images/obstacleElements/H.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/obstacleElements/Kegle.png",
+      "PackagePath": "staticwebassets/images/obstacleElements/Kegle.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/obstacleElements/Spand.png",
+      "PackagePath": "staticwebassets/images/obstacleElements/Spand.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/obstacleElements/Tunnel.png",
+      "PackagePath": "staticwebassets/images/obstacleElements/Tunnel.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/0.png",
+      "PackagePath": "staticwebassets/images/signs/0.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/1.png",
+      "PackagePath": "staticwebassets/images/signs/1.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/10.png",
+      "PackagePath": "staticwebassets/images/signs/10.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/100.png",
+      "PackagePath": "staticwebassets/images/signs/100.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/101.png",
+      "PackagePath": "staticwebassets/images/signs/101.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/102.png",
+      "PackagePath": "staticwebassets/images/signs/102.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/103.png",
+      "PackagePath": "staticwebassets/images/signs/103.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/104.png",
+      "PackagePath": "staticwebassets/images/signs/104.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/105.png",
+      "PackagePath": "staticwebassets/images/signs/105.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/106.png",
+      "PackagePath": "staticwebassets/images/signs/106.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/107.png",
+      "PackagePath": "staticwebassets/images/signs/107.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/108.png",
+      "PackagePath": "staticwebassets/images/signs/108.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/109.png",
+      "PackagePath": "staticwebassets/images/signs/109.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/11.png",
+      "PackagePath": "staticwebassets/images/signs/11.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/110.png",
+      "PackagePath": "staticwebassets/images/signs/110.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/111.png",
+      "PackagePath": "staticwebassets/images/signs/111.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/112.png",
+      "PackagePath": "staticwebassets/images/signs/112.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/113.png",
+      "PackagePath": "staticwebassets/images/signs/113.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/114.png",
+      "PackagePath": "staticwebassets/images/signs/114.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/115.png",
+      "PackagePath": "staticwebassets/images/signs/115.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/116.png",
+      "PackagePath": "staticwebassets/images/signs/116.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/117.png",
+      "PackagePath": "staticwebassets/images/signs/117.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/118.png",
+      "PackagePath": "staticwebassets/images/signs/118.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/119.png",
+      "PackagePath": "staticwebassets/images/signs/119.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/12.png",
+      "PackagePath": "staticwebassets/images/signs/12.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/120.png",
+      "PackagePath": "staticwebassets/images/signs/120.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/121.png",
+      "PackagePath": "staticwebassets/images/signs/121.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/122.png",
+      "PackagePath": "staticwebassets/images/signs/122.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/123.png",
+      "PackagePath": "staticwebassets/images/signs/123.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/124.png",
+      "PackagePath": "staticwebassets/images/signs/124.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/125.png",
+      "PackagePath": "staticwebassets/images/signs/125.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/126.png",
+      "PackagePath": "staticwebassets/images/signs/126.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/127.png",
+      "PackagePath": "staticwebassets/images/signs/127.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/128.png",
+      "PackagePath": "staticwebassets/images/signs/128.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/129.png",
+      "PackagePath": "staticwebassets/images/signs/129.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/13.png",
+      "PackagePath": "staticwebassets/images/signs/13.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/130.png",
+      "PackagePath": "staticwebassets/images/signs/130.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/131.png",
+      "PackagePath": "staticwebassets/images/signs/131.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/132.png",
+      "PackagePath": "staticwebassets/images/signs/132.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/133.png",
+      "PackagePath": "staticwebassets/images/signs/133.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/14.png",
+      "PackagePath": "staticwebassets/images/signs/14.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/15.png",
+      "PackagePath": "staticwebassets/images/signs/15.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/16.png",
+      "PackagePath": "staticwebassets/images/signs/16.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/17.png",
+      "PackagePath": "staticwebassets/images/signs/17.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/18.png",
+      "PackagePath": "staticwebassets/images/signs/18.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/19.png",
+      "PackagePath": "staticwebassets/images/signs/19.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/2.png",
+      "PackagePath": "staticwebassets/images/signs/2.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/20.png",
+      "PackagePath": "staticwebassets/images/signs/20.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/200.png",
+      "PackagePath": "staticwebassets/images/signs/200.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/201.png",
+      "PackagePath": "staticwebassets/images/signs/201.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/202.png",
+      "PackagePath": "staticwebassets/images/signs/202.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/203.png",
+      "PackagePath": "staticwebassets/images/signs/203.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/204.png",
+      "PackagePath": "staticwebassets/images/signs/204.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/205.png",
+      "PackagePath": "staticwebassets/images/signs/205.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/206.png",
+      "PackagePath": "staticwebassets/images/signs/206.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/207.png",
+      "PackagePath": "staticwebassets/images/signs/207.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/208.png",
+      "PackagePath": "staticwebassets/images/signs/208.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/209.png",
+      "PackagePath": "staticwebassets/images/signs/209.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/21.png",
+      "PackagePath": "staticwebassets/images/signs/21.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/210.png",
+      "PackagePath": "staticwebassets/images/signs/210.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/211.png",
+      "PackagePath": "staticwebassets/images/signs/211.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/212.png",
+      "PackagePath": "staticwebassets/images/signs/212.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/213.png",
+      "PackagePath": "staticwebassets/images/signs/213.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/214.png",
+      "PackagePath": "staticwebassets/images/signs/214.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/215.png",
+      "PackagePath": "staticwebassets/images/signs/215.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/216.png",
+      "PackagePath": "staticwebassets/images/signs/216.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/217.png",
+      "PackagePath": "staticwebassets/images/signs/217.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/218.png",
+      "PackagePath": "staticwebassets/images/signs/218.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/219.png",
+      "PackagePath": "staticwebassets/images/signs/219.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/22.png",
+      "PackagePath": "staticwebassets/images/signs/22.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/220.png",
+      "PackagePath": "staticwebassets/images/signs/220.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/221.png",
+      "PackagePath": "staticwebassets/images/signs/221.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/222.png",
+      "PackagePath": "staticwebassets/images/signs/222.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/223.png",
+      "PackagePath": "staticwebassets/images/signs/223.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/224.png",
+      "PackagePath": "staticwebassets/images/signs/224.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/225.png",
+      "PackagePath": "staticwebassets/images/signs/225.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/226.png",
+      "PackagePath": "staticwebassets/images/signs/226.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/227.png",
+      "PackagePath": "staticwebassets/images/signs/227.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/228.png",
+      "PackagePath": "staticwebassets/images/signs/228.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/229.png",
+      "PackagePath": "staticwebassets/images/signs/229.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/23.png",
+      "PackagePath": "staticwebassets/images/signs/23.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/24.png",
+      "PackagePath": "staticwebassets/images/signs/24.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/25.png",
+      "PackagePath": "staticwebassets/images/signs/25.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/26.png",
+      "PackagePath": "staticwebassets/images/signs/26.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/27.png",
+      "PackagePath": "staticwebassets/images/signs/27.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/28.png",
+      "PackagePath": "staticwebassets/images/signs/28.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/29.png",
+      "PackagePath": "staticwebassets/images/signs/29.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/3.png",
+      "PackagePath": "staticwebassets/images/signs/3.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/30.png",
+      "PackagePath": "staticwebassets/images/signs/30.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/300.png",
+      "PackagePath": "staticwebassets/images/signs/300.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/301.png",
+      "PackagePath": "staticwebassets/images/signs/301.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/302.png",
+      "PackagePath": "staticwebassets/images/signs/302.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/303.png",
+      "PackagePath": "staticwebassets/images/signs/303.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/304.png",
+      "PackagePath": "staticwebassets/images/signs/304.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/305.png",
+      "PackagePath": "staticwebassets/images/signs/305.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/306.png",
+      "PackagePath": "staticwebassets/images/signs/306.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/307.png",
+      "PackagePath": "staticwebassets/images/signs/307.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/308.png",
+      "PackagePath": "staticwebassets/images/signs/308.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/309.png",
+      "PackagePath": "staticwebassets/images/signs/309.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/31.png",
+      "PackagePath": "staticwebassets/images/signs/31.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/310.png",
+      "PackagePath": "staticwebassets/images/signs/310.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/311.png",
+      "PackagePath": "staticwebassets/images/signs/311.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/312.png",
+      "PackagePath": "staticwebassets/images/signs/312.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/313.png",
+      "PackagePath": "staticwebassets/images/signs/313.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/314.png",
+      "PackagePath": "staticwebassets/images/signs/314.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/315.png",
+      "PackagePath": "staticwebassets/images/signs/315.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/316.png",
+      "PackagePath": "staticwebassets/images/signs/316.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/317.png",
+      "PackagePath": "staticwebassets/images/signs/317.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/318.png",
+      "PackagePath": "staticwebassets/images/signs/318.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/319.png",
+      "PackagePath": "staticwebassets/images/signs/319.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/32.png",
+      "PackagePath": "staticwebassets/images/signs/32.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/33.png",
+      "PackagePath": "staticwebassets/images/signs/33.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/34.png",
+      "PackagePath": "staticwebassets/images/signs/34.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/35.png",
+      "PackagePath": "staticwebassets/images/signs/35.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/36.png",
+      "PackagePath": "staticwebassets/images/signs/36.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/37.png",
+      "PackagePath": "staticwebassets/images/signs/37.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/38.png",
+      "PackagePath": "staticwebassets/images/signs/38.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/39.png",
+      "PackagePath": "staticwebassets/images/signs/39.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/4.png",
+      "PackagePath": "staticwebassets/images/signs/4.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/40.png",
+      "PackagePath": "staticwebassets/images/signs/40.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/41.png",
+      "PackagePath": "staticwebassets/images/signs/41.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/42.png",
+      "PackagePath": "staticwebassets/images/signs/42.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/43.png",
+      "PackagePath": "staticwebassets/images/signs/43.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/44.png",
+      "PackagePath": "staticwebassets/images/signs/44.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/45.png",
+      "PackagePath": "staticwebassets/images/signs/45.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/46.png",
+      "PackagePath": "staticwebassets/images/signs/46.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/47.png",
+      "PackagePath": "staticwebassets/images/signs/47.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/5.png",
+      "PackagePath": "staticwebassets/images/signs/5.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/58.png",
+      "PackagePath": "staticwebassets/images/signs/58.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/59.png",
+      "PackagePath": "staticwebassets/images/signs/59.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/6.png",
+      "PackagePath": "staticwebassets/images/signs/6.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/7.png",
+      "PackagePath": "staticwebassets/images/signs/7.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/8.png",
+      "PackagePath": "staticwebassets/images/signs/8.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/signs/9.png",
+      "PackagePath": "staticwebassets/images/signs/9.png"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/1.txt",
+      "PackagePath": "staticwebassets/images/text/1.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/10.txt",
+      "PackagePath": "staticwebassets/images/text/10.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/100.txt",
+      "PackagePath": "staticwebassets/images/text/100.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/101.txt",
+      "PackagePath": "staticwebassets/images/text/101.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/102.txt",
+      "PackagePath": "staticwebassets/images/text/102.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/103.txt",
+      "PackagePath": "staticwebassets/images/text/103.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/104.txt",
+      "PackagePath": "staticwebassets/images/text/104.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/105.txt",
+      "PackagePath": "staticwebassets/images/text/105.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/106.txt",
+      "PackagePath": "staticwebassets/images/text/106.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/107.txt",
+      "PackagePath": "staticwebassets/images/text/107.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/108.txt",
+      "PackagePath": "staticwebassets/images/text/108.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/109.txt",
+      "PackagePath": "staticwebassets/images/text/109.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/11.txt",
+      "PackagePath": "staticwebassets/images/text/11.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/110.txt",
+      "PackagePath": "staticwebassets/images/text/110.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/111.txt",
+      "PackagePath": "staticwebassets/images/text/111.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/112.txt",
+      "PackagePath": "staticwebassets/images/text/112.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/113.txt",
+      "PackagePath": "staticwebassets/images/text/113.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/114.txt",
+      "PackagePath": "staticwebassets/images/text/114.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/115.txt",
+      "PackagePath": "staticwebassets/images/text/115.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/116.txt",
+      "PackagePath": "staticwebassets/images/text/116.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/117.txt",
+      "PackagePath": "staticwebassets/images/text/117.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/118.txt",
+      "PackagePath": "staticwebassets/images/text/118.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/119.txt",
+      "PackagePath": "staticwebassets/images/text/119.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/12.txt",
+      "PackagePath": "staticwebassets/images/text/12.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/120.txt",
+      "PackagePath": "staticwebassets/images/text/120.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/121.txt",
+      "PackagePath": "staticwebassets/images/text/121.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/122.txt",
+      "PackagePath": "staticwebassets/images/text/122.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/123.txt",
+      "PackagePath": "staticwebassets/images/text/123.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/124.txt",
+      "PackagePath": "staticwebassets/images/text/124.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/125.txt",
+      "PackagePath": "staticwebassets/images/text/125.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/126.txt",
+      "PackagePath": "staticwebassets/images/text/126.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/127.txt",
+      "PackagePath": "staticwebassets/images/text/127.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/128.txt",
+      "PackagePath": "staticwebassets/images/text/128.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/129.txt",
+      "PackagePath": "staticwebassets/images/text/129.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/13.txt",
+      "PackagePath": "staticwebassets/images/text/13.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/130.txt",
+      "PackagePath": "staticwebassets/images/text/130.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/131.txt",
+      "PackagePath": "staticwebassets/images/text/131.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/132.txt",
+      "PackagePath": "staticwebassets/images/text/132.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/133.txt",
+      "PackagePath": "staticwebassets/images/text/133.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/14.txt",
+      "PackagePath": "staticwebassets/images/text/14.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/15.txt",
+      "PackagePath": "staticwebassets/images/text/15.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/16.txt",
+      "PackagePath": "staticwebassets/images/text/16.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/17.txt",
+      "PackagePath": "staticwebassets/images/text/17.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/18.txt",
+      "PackagePath": "staticwebassets/images/text/18.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/19.txt",
+      "PackagePath": "staticwebassets/images/text/19.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/2.txt",
+      "PackagePath": "staticwebassets/images/text/2.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/20.txt",
+      "PackagePath": "staticwebassets/images/text/20.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/200.txt",
+      "PackagePath": "staticwebassets/images/text/200.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/201.txt",
+      "PackagePath": "staticwebassets/images/text/201.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/202.txt",
+      "PackagePath": "staticwebassets/images/text/202.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/203.txt",
+      "PackagePath": "staticwebassets/images/text/203.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/204.txt",
+      "PackagePath": "staticwebassets/images/text/204.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/205.txt",
+      "PackagePath": "staticwebassets/images/text/205.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/206.txt",
+      "PackagePath": "staticwebassets/images/text/206.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/207.txt",
+      "PackagePath": "staticwebassets/images/text/207.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/208.txt",
+      "PackagePath": "staticwebassets/images/text/208.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/209.txt",
+      "PackagePath": "staticwebassets/images/text/209.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/21.txt",
+      "PackagePath": "staticwebassets/images/text/21.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/210.txt",
+      "PackagePath": "staticwebassets/images/text/210.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/211.txt",
+      "PackagePath": "staticwebassets/images/text/211.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/212.txt",
+      "PackagePath": "staticwebassets/images/text/212.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/213.txt",
+      "PackagePath": "staticwebassets/images/text/213.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/214.txt",
+      "PackagePath": "staticwebassets/images/text/214.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/215.txt",
+      "PackagePath": "staticwebassets/images/text/215.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/216.txt",
+      "PackagePath": "staticwebassets/images/text/216.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/217.txt",
+      "PackagePath": "staticwebassets/images/text/217.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/218.txt",
+      "PackagePath": "staticwebassets/images/text/218.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/219.txt",
+      "PackagePath": "staticwebassets/images/text/219.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/22.txt",
+      "PackagePath": "staticwebassets/images/text/22.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/220.txt",
+      "PackagePath": "staticwebassets/images/text/220.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/221.txt",
+      "PackagePath": "staticwebassets/images/text/221.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/222.txt",
+      "PackagePath": "staticwebassets/images/text/222.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/223.txt",
+      "PackagePath": "staticwebassets/images/text/223.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/224.txt",
+      "PackagePath": "staticwebassets/images/text/224.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/225.txt",
+      "PackagePath": "staticwebassets/images/text/225.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/226.txt",
+      "PackagePath": "staticwebassets/images/text/226.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/227.txt",
+      "PackagePath": "staticwebassets/images/text/227.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/228.txt",
+      "PackagePath": "staticwebassets/images/text/228.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/229.txt",
+      "PackagePath": "staticwebassets/images/text/229.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/23.txt",
+      "PackagePath": "staticwebassets/images/text/23.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/24.txt",
+      "PackagePath": "staticwebassets/images/text/24.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/25.txt",
+      "PackagePath": "staticwebassets/images/text/25.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/26.txt",
+      "PackagePath": "staticwebassets/images/text/26.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/27.txt",
+      "PackagePath": "staticwebassets/images/text/27.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/28.txt",
+      "PackagePath": "staticwebassets/images/text/28.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/29.txt",
+      "PackagePath": "staticwebassets/images/text/29.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/3.txt",
+      "PackagePath": "staticwebassets/images/text/3.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/30.txt",
+      "PackagePath": "staticwebassets/images/text/30.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/300.txt",
+      "PackagePath": "staticwebassets/images/text/300.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/301.txt",
+      "PackagePath": "staticwebassets/images/text/301.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/302.txt",
+      "PackagePath": "staticwebassets/images/text/302.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/303.txt",
+      "PackagePath": "staticwebassets/images/text/303.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/304.txt",
+      "PackagePath": "staticwebassets/images/text/304.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/305.txt",
+      "PackagePath": "staticwebassets/images/text/305.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/306.txt",
+      "PackagePath": "staticwebassets/images/text/306.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/307.txt",
+      "PackagePath": "staticwebassets/images/text/307.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/308.txt",
+      "PackagePath": "staticwebassets/images/text/308.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/309.txt",
+      "PackagePath": "staticwebassets/images/text/309.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/31.txt",
+      "PackagePath": "staticwebassets/images/text/31.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/310.txt",
+      "PackagePath": "staticwebassets/images/text/310.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/311.txt",
+      "PackagePath": "staticwebassets/images/text/311.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/312.txt",
+      "PackagePath": "staticwebassets/images/text/312.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/313.txt",
+      "PackagePath": "staticwebassets/images/text/313.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/314.txt",
+      "PackagePath": "staticwebassets/images/text/314.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/315.txt",
+      "PackagePath": "staticwebassets/images/text/315.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/316.txt",
+      "PackagePath": "staticwebassets/images/text/316.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/317.txt",
+      "PackagePath": "staticwebassets/images/text/317.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/318.txt",
+      "PackagePath": "staticwebassets/images/text/318.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/319.txt",
+      "PackagePath": "staticwebassets/images/text/319.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/32.txt",
+      "PackagePath": "staticwebassets/images/text/32.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/33.txt",
+      "PackagePath": "staticwebassets/images/text/33.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/34.txt",
+      "PackagePath": "staticwebassets/images/text/34.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/35.txt",
+      "PackagePath": "staticwebassets/images/text/35.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/36.txt",
+      "PackagePath": "staticwebassets/images/text/36.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/37.txt",
+      "PackagePath": "staticwebassets/images/text/37.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/38.txt",
+      "PackagePath": "staticwebassets/images/text/38.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/39.txt",
+      "PackagePath": "staticwebassets/images/text/39.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/4.txt",
+      "PackagePath": "staticwebassets/images/text/4.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/40.txt",
+      "PackagePath": "staticwebassets/images/text/40.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/41.txt",
+      "PackagePath": "staticwebassets/images/text/41.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/42.txt",
+      "PackagePath": "staticwebassets/images/text/42.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/43.txt",
+      "PackagePath": "staticwebassets/images/text/43.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/44.txt",
+      "PackagePath": "staticwebassets/images/text/44.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/45.txt",
+      "PackagePath": "staticwebassets/images/text/45.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/46.txt",
+      "PackagePath": "staticwebassets/images/text/46.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/47.txt",
+      "PackagePath": "staticwebassets/images/text/47.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/5.txt",
+      "PackagePath": "staticwebassets/images/text/5.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/6.txt",
+      "PackagePath": "staticwebassets/images/text/6.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/7.txt",
+      "PackagePath": "staticwebassets/images/text/7.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/8.txt",
+      "PackagePath": "staticwebassets/images/text/8.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/9.txt",
+      "PackagePath": "staticwebassets/images/text/9.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/images/text/Names.txt",
+      "PackagePath": "staticwebassets/images/text/Names.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/js/obstacle.js",
+      "PackagePath": "staticwebassets/js/obstacle.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/js/track.js",
+      "PackagePath": "staticwebassets/js/track.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DcHRally.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DcHRally.props",
+      "PackagePath": "build\\DcHRally.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DcHRally.props",
+      "PackagePath": "buildMultiTargeting\\DcHRally.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DcHRally.props",
+      "PackagePath": "buildTransitive\\DcHRally.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

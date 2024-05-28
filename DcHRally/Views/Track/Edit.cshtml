@@ -1,0 +1,127 @@
+﻿@model RallyBaneTest.ViewModels.ObstacleViewModel
+@{
+    ViewData["Title"] = "Tracks Builder";
+    Layout = "_Layout";
+}
+<head>
+    <link rel="stylesheet" href="~/css/trackStyle.css">
+
+</head>
+<form>
+    @Html.AntiForgeryToken()
+</form>
+<div class="row">
+    <!-- Left Section: List of obstacles/signs -->
+    <div class="col-md-4">
+        <h2>Skilte</h2>
+        <div id="signs">
+            @if (Model != null && Model.Obstacles != null)
+            {
+                // Display images for category 1
+                var categoryOneObstacles = Model.Obstacles.Where(o => o.Category.CategoryId == 1);
+                foreach (var obstacle in categoryOneObstacles)
+                {
+                    <div class="obstacle-container text-center mx-2">
+                        <img src="~/images/signs/@(obstacle.ObstacleId).png" title="@($"{obstacle.Name}\n{obstacle.Description}")" draggable="true" class="obstacle-image" />
+                        <div class="obstacle-name">@obstacle.Name</div>
+                    </div>
+                }
+
+                // Display accordion for other categories
+                var remainingCategories = Model.Obstacles.Where(o => o.Category.CategoryId != 1).GroupBy(o => o.Category);
+                foreach (var group in remainingCategories)
+                {
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse@(group.Key.Name)" aria-expanded="false" aria-controls="collapse@(group.Key.Name)">
+                                @group.Key.Name
+                            </button>
+                        </h2>
+                        <div id="collapse@(group.Key.Name)" class="accordion-collapse collapse" aria-labelledby="heading@(group.Key.Name)">
+                            <div class="accordion-body obstacle-accordion-body">
+                                @foreach (var obstacle in group)
+                                {
+                                    <div class="obstacle-container text-center mx-2">
+                                        <span class="obstacle-id">@obstacle.ObstacleId</span>
+                                        <img src="~/images/signs/@(obstacle.ObstacleId).png" title="@($"{obstacle.Name}\n{obstacle.Description}")" draggable="true" class="obstacle-image" />
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                }
+                var obstacleElements = Model.ObstacleElements;
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseObstacleElements" aria-expanded="false" aria-controls="collapseObstacleElements">
+                            Bane Elementer
+                        </button>
+                    </h2>
+                    <div id="collapseObstacleElements" class="accordion-collapse collapse" aria-labelledby="Bane Elementer">
+                        <div class="accordion-body obstacle-accordion-body">
+                            @foreach (var obstacleElement in obstacleElements)
+                            {
+                                <div class="obstacle-container text-center mx-2">
+                                    <div class="obstacle-name">@obstacleElement.Name</div>
+                                    <img src="~/images/obstacleElements/@(obstacleElement.Name).png" title="@(obstacleElement.Name)" draggable="true" class="obstacleElement-image" />
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Center Section: Track builder -->
+    <div class="col-md-7">
+        <h2 style="display: inline-block;">Banebyggeren</h2>
+
+        <div class="input-container">
+            <input type="text" class="text-field" id="track-name" placeholder="Angiv evt. banenavn" style="display: inline-block; float: right;" />
+            <label for="category-selector">Vælg kategori:</label>
+            <select id="category-selector">
+                @if (Model != null && Model.Obstacles != null)
+                {
+                    var categories = Model.Obstacles.Where(o => o.Category.CategoryId != 1).GroupBy(o => o.Category);
+                    foreach (var category in categories)
+                    {
+                        <option value="@category.Key.Name">@category.Key.Name</option>
+                    }
+                }
+            </select>
+        </div>
+
+        <div id="trackContainer"></div>
+        <h6>Rækkefølge:</h6>
+        <div class="table" id="sign-sequence">
+            <table>
+            </table>
+        </div>
+    </div>
+
+    <!-- Right Section: Buttons -->
+    <div class="col-md-1">
+        <h2>Info</h2>
+        @* <button class="right-section-button" id="display-regulations">Reglement</button> *@
+        <button class="right-section-button" id="clear-track" onclick="clearStage()">Ryd Bane</button>
+        <button class="right-section-button" id="save-track" onclick="saveToJSON()">Gem Bane</button>        
+    </div>
+</div>
+@if (Model != null && Model.LoadedTrack != null)
+{
+    var obstacle = Model.Obstacles.Where(o => o.Category.CategoryId == Model.LoadedTrack.CategoryId).First<Obstacle>();
+    var trackCategory = obstacle.Category.Name;
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            loadFromJSON("@Model.LoadedTrack.Name", "@trackCategory", `@Model.LoadedTrack.TrackData`);
+        });
+    </script>
+}
+
+@section scripts {
+    <script src="https://unpkg.com/konva@9.3.6/konva.min.js"></script>
+    <script src="~/js/track.js"></script>
+    <script src="~/js/obstacle.js"></script>
+}

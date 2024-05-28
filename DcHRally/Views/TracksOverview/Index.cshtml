@@ -1,0 +1,38 @@
+@model RallyBaneTest.ViewModels.TrackViewModel
+
+@{
+    ViewData["Title"] = "Mine baner";
+}
+
+<h1>Gemte baner</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Kategori
+            </th>
+            <th>
+                Navn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Tracks) {
+        <tr>
+            <td>
+                @Model.Categories.FirstOrDefault(c => c.CategoryId == item.CategoryId)?.Name
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>      
+            <td>
+                <a asp-controller="Track" asp-action="Edit" asp-route-id="@item.TrackId">Redigér bane</a> |
+                <a asp-action="Details" asp-route-id="@item.TrackId">Detaljer</a> |
+                <a asp-action="Delete" asp-route-id="@item.TrackId">Slet bane</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

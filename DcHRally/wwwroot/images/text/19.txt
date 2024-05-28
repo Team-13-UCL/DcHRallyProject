@@ -1,0 +1,1 @@
+Foran skiltet ændrer teamet retning 180° rundt mod venstre, således at hunden bytter side fra venstre til højre. Dette skal ske samtidigt, i en flydende bevægelse og uden stop. Højrehandling gennemføres også med 180° rundt mod venstre, således, at hunden bytter side fra højre til venstre. Hunden drejer derfor væk fra føreren.

@@ -1,0 +1,39 @@
+﻿@model DcHRally.Models.Track
+
+@{
+    ViewData["Title"] = "Slet Bane";
+}
+
+<h1>Slet bane</h1>
+
+<h3>Er du sikker på, at du vil slette denne bane?</h3>
+<div>
+    <h4>Track</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CategoryId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TrackData)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrackData)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="TrackId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Tilbage til listen</a>
+    </form>
+</div>

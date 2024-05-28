@@ -1,0 +1,1 @@
+Teamet skal gå 2 gange et 8-tal, hvorved de passerer midten 5 gange. Ved 3. passage af midten udføres et sideskift bagved. Hunden holder venstreposition, indtil sideskift, hvorefter der fortsættes i højreposition. Højrehandling gennemføres på samme måde. Hunden holder højreposition, indtil sideskift, hvorefter der fortsættes i venstreposition.

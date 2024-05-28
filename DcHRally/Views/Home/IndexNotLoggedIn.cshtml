@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-6 left-panel">
+            <div class="image-container">
+                <a href="@Url.Page("/Account/Login", new { area = "Identity", returnUrl = Url.Action("Index", "Home") })">
+                    <img src="~/images/RallyAction.png" alt="Se Baneoversigten" class="zoom-image"/>
+                </a>
+                <div class="button-container">
+                    <a class="btn btn-primary" href="@Url.Page("/Account/Login", new { area = "Identity", returnUrl = Url.Action("Index", "Home") })">Se Baneoversigten</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 right-panel">
+            <div class="image-container">
+                <a href="@Url.Page("/Account/Login", new { area = "Identity", returnUrl = Url.Action("Index", "Track") })">
+                    <img src="~/images/TrackBuilderExample.png" alt="Byg din egen bane" class="zoom-image"/>
+                </a>
+                <div class="button-container">
+                    <a class="btn btn-primary" href="@Url.Page("/Account/Login", new { area = "Identity", returnUrl = Url.Action("Index", "Track") })">Byg din egen bane</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

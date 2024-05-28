@@ -1,0 +1,1 @@
+Teamet stopper, og hunden dirigeres til at blive stående, idet føreren stopper. Hunden bliver stående, mens føreren går fra den. Højrehandling gennemføres på samme måde. Hunden holder hele tiden højreposition.

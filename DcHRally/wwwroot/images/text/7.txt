@@ -1,0 +1,1 @@
+Teamet drejer diagonalt mod højre. Føreren skal holde en konstant hastighed under drejet. Hunden skal sætte farten op under drejningen, således at teamet følges ad. Hunden må ikke sætte sig. Højrehandling gennemføres på samme måde. Hunden holder hele tiden højreposition.

@@ -1,0 +1,34 @@
+@using DcHRally.Areas.Identity.Data
+@using Microsoft.AspNetCore.Identity;
+@model RallyBaneTest.ViewModels.TrackViewModel
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-6 left-panel">
+            <h2>Mine nyeste baner</h2>
+            <ul id="course-list" class="course-list">
+                @foreach(var track in Model.Tracks) {
+                    <li><a asp-controller="Track" asp-action="Edit" asp-route-id="@track.TrackId">@track.Name</a></li>
+                }
+            </ul>
+        </div>
+        <div class="col-md-6 right-panel">
+            <div class="image-container">
+                <a asp-area="" asp-controller="Track" asp-action="Index">
+                    <img src="~/images/TrackBuilderExample.png" alt="Byg din egen bane" class="zoom-image" />
+                </a>
+                <div class="button-container">
+                    <a class="btn btn-primary" asp-area="" asp-controller="Track" asp-action="Index">Byg din egen bane</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
