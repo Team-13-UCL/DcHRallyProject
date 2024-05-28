@@ -1,12 +1,12 @@
 using DcHRally.Areas.Identity.Data;
 using DcHRally.Models;
+using DcHRally.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using RallyBaneTest.ViewModels;
 using System.Diagnostics;
 
-namespace IdentityTest.Controllers;
+namespace DcHRally.Controllers;
 
 public class HomeController : Controller
 {

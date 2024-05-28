@@ -3,10 +3,10 @@ using DcHRally.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using RallyBaneTest.ViewModels;
+using DcHRally.ViewModels;
 using System.Diagnostics;
 
-namespace RallyBaneTest.Controllers;
+namespace DcHRally.Controllers;
 
 [Authorize]
 public class TrackController : Controller

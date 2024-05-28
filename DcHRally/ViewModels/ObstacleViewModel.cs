@@ -1,7 +1,6 @@
 using DcHRally.Models;
-using RallyBaneTest.Models;
 
-namespace RallyBaneTest.ViewModels
+namespace DcHRally.ViewModels
 {
     public class ObstacleViewModel
     {

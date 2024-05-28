@@ -1,6 +1,6 @@
 ﻿using DcHRally.Models;
 
-namespace RallyBaneTest.ViewModels
+namespace DcHRally.ViewModels
 {
     public class TrackViewModel
     {
