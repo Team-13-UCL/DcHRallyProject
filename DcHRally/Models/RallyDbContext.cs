@@ -1,7 +1,6 @@
-using DcHRally.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace RallyBaneTest.Models
+namespace DcHRally.Models
 {
     public class RallyDbContext : DbContext
     {

@@ -1,7 +1,6 @@
 using DcHRally.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using RallyBaneTest.Models;
 
 namespace DcHRally.Areas.Identity.Data;
 

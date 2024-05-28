@@ -1,10 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 using Microsoft.EntityFrameworkCore;
 
-namespace RallyBaneTest.Models
+namespace DcHRally.Models
 {
     public class ObstacleRepository : IObstacleRepository
     {

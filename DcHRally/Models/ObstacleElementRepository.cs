@@ -1,4 +1,4 @@
-﻿using RallyBaneTest.Models;
+﻿
 
 namespace DcHRally.Models
 {

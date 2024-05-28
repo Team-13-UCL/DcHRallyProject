@@ -1,5 +1,4 @@
 ﻿using DcHRally.Models;
-using RallyBaneTest.Models;
 
 namespace RallyBaneTest.ViewModels
 {

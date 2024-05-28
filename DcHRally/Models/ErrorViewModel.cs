@@ -1,4 +1,4 @@
-namespace RallyBaneTest.Models;
+namespace DcHRally.Models;
 
 public class ErrorViewModel
 {

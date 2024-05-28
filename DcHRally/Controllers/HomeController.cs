@@ -1,8 +1,8 @@
 using DcHRally.Areas.Identity.Data;
+using DcHRally.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using RallyBaneTest.Models;
 using RallyBaneTest.ViewModels;
 using System.Diagnostics;
 

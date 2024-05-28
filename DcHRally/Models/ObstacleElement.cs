@@ -1,5 +1,4 @@
-﻿using RallyBaneTest.Models;
-
+﻿
 namespace DcHRally.Models
 {
     public class ObstacleElement

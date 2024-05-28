@@ -1,6 +1,4 @@
-﻿using RallyBaneTest.Models;
-
-namespace DcHRally.Models
+﻿namespace DcHRally.Models
 {
     public class DbSeeder
     {

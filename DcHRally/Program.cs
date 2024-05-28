@@ -2,7 +2,6 @@ using DcHRally.Areas.Identity.Data;
 using DcHRally.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using RallyBaneTest.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

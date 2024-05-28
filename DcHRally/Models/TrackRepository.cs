@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using RallyBaneTest.Models;
 
 namespace DcHRally.Models
 {
