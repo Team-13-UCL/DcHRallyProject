@@ -6,6 +6,8 @@
 
 Vores applikation er designet til entusiaster af **Hunde Rally Lydighed**, hvor brugere kan bygge og opdatere deres egne baner. Systemet tilbyder en brugervenlig platform for instruktører og dommere til at administrere deres træningsbaner og konkurrencer. For at se en demonstration af applikationen, kan du se vores **videodemonstration** her.
 
+[Se Team 13's Video Demonstration Her!](https://drive.google.com/file/d/19OH9zweXwlnJ_ADzK0mOfgE-FV8ogAuh/view?usp=sharing)
+
 ## **Systemudvikling**
 
 Vi identificerede og håndterede **komplekse udfordringer** og **usikkerheder** i projektet, hvilke hjalp os med at vælge en **procesmodel**. Vores tilgang begyndte med **cyklisk procesmodel**, der førte til valget af **systemudviklingsmetoden Crystal Methods**, som vi arbejdede med over en 4-ugers periode for at optimere vores udviklingsproces. Vi anvendte **SCRUM** til agil projektstyring og **Gantt-diagrammer** til tidsplanlægning. Efter at have opnået større klarhed over projektets usikkerheder skiftede vi systemudviklingsmetode til en **vandfaldsmodel med løbende feedback**. For at sikre en sikker udviklingsproces udledte vi **misbrugstilfælde** og arbejdede med **trusselsmodellering** og **risikostyring**. Til sidst overvejede vi forskellige strategier for **udrulning** og **vedligehold**, herunder Pilot Cutover og Bing Bang.
