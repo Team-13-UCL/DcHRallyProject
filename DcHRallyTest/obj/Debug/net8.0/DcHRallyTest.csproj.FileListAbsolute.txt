@@ -341,3 +341,4 @@
 /Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRallyTest/obj/Debug/net8.0/DcHRallyTest.pdb
 /Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRallyTest/obj/Debug/net8.0/DcHRallyTest.genruntimeconfig.cache
 /Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRallyTest/obj/Debug/net8.0/ref/DcHRallyTest.dll
+/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRallyTest/obj/Debug/net8.0/DcHRallyTest.sourcelink.json
