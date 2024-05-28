@@ -816,3 +816,4 @@ C:/Users/Minik/Source/Repos/DcHRally/bin/Debug/net8.0/libman.json
 /Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/obj/Debug/net8.0/DcHRally.pdb
 /Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/obj/Debug/net8.0/DcHRally.genruntimeconfig.cache
 /Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/obj/Debug/net8.0/ref/DcHRally.dll
+/Users/tobiaskjaer/Repoes/DcHRallyProject/DcHRally/obj/Debug/net8.0/DcHRally.sourcelink.json
