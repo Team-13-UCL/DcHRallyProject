@@ -1,10 +1,10 @@
 ﻿using DcHRally.Areas.Identity.Data;
 using DcHRally.Models;
+using DcHRally.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using RallyBaneTest.ViewModels;
 
 namespace DcHRally.Controllers
 {
