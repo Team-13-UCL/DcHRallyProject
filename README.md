@@ -1,3 +1,4 @@
+# DcHRallyProject
 <sub>**Projekt Rally Lydighed af Team 13** bestående af Sebastian Engberg Riis Sørensen, Søren Skov Andersen, Minik Busk Langkjær og Tobias Kjær.</sub>
 
 <sub>**OBS:** Man skal være på **VPN** for at køre programmet, da applikationen benytter vores UCL Team Database.</sub>
@@ -19,4 +20,3 @@ Systemet er udviklet som en **ASP.NET Core MVC applikation** i .NET 8.0. Vi brug
 ## **Sammenfatning**
 
 Gennem dette projekt har vi opnået erfaring med forskellige **systemudviklingsmetoder**, **distribuerede systemer** og integration af nye teknologier inden for **ASP.NET Core** og **webudvikling**. Dette har givet os en dybere forståelse af, hvordan forskellige teknologier og metoder kan komplementere hinanden i udviklingen af komplekse systemer.
-# DcHRallyProject
