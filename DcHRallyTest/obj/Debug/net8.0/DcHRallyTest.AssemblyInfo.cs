@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DcHRallyTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58165a88c4b911146f300a6919c22f4892bd13cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba38bf2cb07c50f01b2301d45fbadc798bbd4efe")]
 [assembly: System.Reflection.AssemblyProductAttribute("DcHRallyTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DcHRallyTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
